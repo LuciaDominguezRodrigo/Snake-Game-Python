@@ -1,3 +1,3 @@
 # Snake-Game-Python
-Basic snake game codedFGFGFGSDGSDFGSDFGSDFGSDFRG in Python
+Basic snake game coded in Python
 ASsASQASASDASD
